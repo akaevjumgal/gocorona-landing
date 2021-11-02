@@ -1,2 +1,2 @@
-# kivta-landing
-Kivta - Landing Page
+# GoCorona-landing
+GoCorona - Landing Page
